@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(234, 234, 234);
+    font-family: GothamBook, sans-serif;
+}
+.navbar {
+    background-color: #9F2241;
+  } 
+  .card-header{
+    background-color:  #56212f;
+    color: #fff;
+  }
+  .input-group-text{
+    background-color: #ccc;
+    color: #000;
+    width: 200px;
+  }
+  @font-face{
+    font-family: GothamBook;
+    src: url(../fonts/GothamBook.ttf);
+  }
+  .line{
+    width: 100%;
+    height: 10px;
+    background-color: #977e5b;
+  }
